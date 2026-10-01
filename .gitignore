@@ -1,0 +1,18 @@
+# Secrets — never commit
+*.env
+.env
+token.txt
+
+# Saved place output — regenerate, don't track
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxm
+*.rbxmx
+sourcemap.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
